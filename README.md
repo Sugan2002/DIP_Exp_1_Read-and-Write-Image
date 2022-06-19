@@ -22,6 +22,12 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
+
+<br>
+<br>
+<br>
+<br>
+
 ## Program:
 ```python
 # Developed By:
@@ -84,6 +90,25 @@ destroyAllWindows()
 
 ### i) Read and display the image
 ![output](./static/img/Ot1.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
