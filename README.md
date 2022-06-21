@@ -90,11 +90,7 @@ destroyAllWindows()
 
 ### i) Read and display the image
 ![output](./static/img/Ot1.png)
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -121,9 +117,37 @@ destroyAllWindows()
 ![output](./static/img/Ot3.png)
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### iv)Access rows and columns
 ![output](./static/img/Ot4.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
