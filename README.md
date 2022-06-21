@@ -132,14 +132,7 @@ destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### iv)Access rows and columns
 ![output](./static/img/Ot4.png)
