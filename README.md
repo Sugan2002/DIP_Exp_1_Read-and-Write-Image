@@ -91,22 +91,7 @@ destroyAllWindows()
 ### i) Read and display the image
 ![output](./static/img/Ot1.png)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### ii)Write the image
 ![output](./static/img/Ot2.png)
@@ -115,54 +100,13 @@ destroyAllWindows()
 
 ### iii)Shape of the Image
 ![output](./static/img/Ot3.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ### iv)Access rows and columns
+
 ![output](./static/img/Ot4.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 ### v)Cut and paste portion of image
 ![output](./static/img/Ot5.png)
